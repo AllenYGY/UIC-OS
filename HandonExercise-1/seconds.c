@@ -7,7 +7,10 @@
 #include <linux/jiffies.h>
 
 #define BUFFER_SIZE 128
-#define PROC_NAME "hello"
+#define PROC_NAME "seconds"
+
+long int old_jiffies;
+
 
 //for kernel version (5.6.0) or above
 //find your Linux system kernel version:  
@@ -33,6 +36,7 @@ int proc_init(void)
 {
 	/* creates the /proc/hello entry */
 	proc_create(PROC_NAME, 0666, NULL, &ops);
+	old_jiffies=jiffies;
 	return 0;
 }
 /* This function is called when the module is removed. */
@@ -55,7 +59,8 @@ ssize_t proc_read(struct file *file, char *usr_buf, size_t count, loff_t *pos)
 	}
 	completed = 1;
 	// rv = sprintf(buffer, "Hello UICers∖n");
-	rv = sprintf(buffer, "s230026188");
+	rv = sprintf(buffer, "%ld\n", jiffies-old_jiffies/HZ);
+	// rv = sprintf(buffer, "s230026188");
 	/* copies kernel space buffer to user space usr buf */
 	raw_copy_to_user(usr_buf, buffer, rv);
 	return rv;
@@ -64,7 +69,7 @@ ssize_t proc_read(struct file *file, char *usr_buf, size_t count, loff_t *pos)
 module_init(proc_init);
 module_exit(proc_exit);
 MODULE_LICENSE("GPL");
-MODULE_DESCRIPTION("student ID module");
+MODULE_DESCRIPTION("Jiffies Module");
 MODULE_AUTHOR("Junya YANG");
 
 
