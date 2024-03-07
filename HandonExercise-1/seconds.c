@@ -11,7 +11,6 @@
 
 long int old_jiffies;
 
-
 //for kernel version (5.6.0) or above
 //find your Linux system kernel version:  
 //$ sudo uname -a   or  $ cat /proc/version
@@ -59,7 +58,7 @@ ssize_t proc_read(struct file *file, char *usr_buf, size_t count, loff_t *pos)
 	}
 	completed = 1;
 	// rv = sprintf(buffer, "Hello UICers∖n");
-	rv = sprintf(buffer, "%ld\n", jiffies-old_jiffies/HZ);
+	rv = sprintf(buffer, "%ld\n", (jiffies-old_jiffies)/HZ);
 	// rv = sprintf(buffer, "s230026188");
 	/* copies kernel space buffer to user space usr buf */
 	raw_copy_to_user(usr_buf, buffer, rv);
