@@ -1,12 +1,12 @@
-#include<stdio.h>
-#include<pthread.h>
-#include<stdlib.h>
-int sum; /* this data is shared by the thread(s) */
+#include <stdio.h>
+#include <pthread.h>
+#include <stdlib.h>
+int sum;                   /* this data is shared by the thread(s) */
 void *runner(void *param); /* the thread */
 
 int main(int argc, char *argv[])
 {
-    pthread_t tid; /* the thread identifier */
+    pthread_t tid;       /* the thread identifier */
     pthread_attr_t attr; /* set of thread attributes */
     int n;
     if (argc != 2)
@@ -14,7 +14,7 @@ int main(int argc, char *argv[])
         fprintf(stderr, "usage: a.out <integer value>\n");
         return -1;
     }
-    n=atoi(argv[1]);
+    n = atoi(argv[1]);
     if (n < 0)
     {
         fprintf(stderr, "%d must be >= 0\n", atoi(argv[1]));
@@ -27,4 +27,16 @@ int main(int argc, char *argv[])
     /* now wait for the thread to exit */
     pthread_join(tid, NULL);
     printf("sum = %d\n", sum);
+}
+
+void *runner(void *param)
+{
+    int i, upper = atoi(param);
+    sum = 0;
+    if (upper > 0)
+    {
+        for (i = 1; i <= upper; i++)
+            sum += i;
+    }
+    pthread_exit(0);
 }
