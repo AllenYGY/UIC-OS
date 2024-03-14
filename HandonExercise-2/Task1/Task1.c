@@ -2,6 +2,14 @@
 #include <unistd.h>
 #define SIZE 1024
 
+/*
+----------------------------------Description--------------------------------------------------------
+The code is a simple program that takes a command from the user and runs it using the exec system call.
+Author: Junya YANG
+Created: 2024/03/14
+----------------------------------End of Description-------------------------------------------------
+*/
+
 int main(void)
 {
 

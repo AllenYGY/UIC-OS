@@ -4,6 +4,16 @@
 #include<string.h>
 #define SIZE 1024
 
+/*
+----------------------------------Description--------------------------------------------------------
+The code is a simple program that takes a command from the user and runs it using the exec system call.
+The program first takes a command from the user, then it forks a child process and runs the command using the exec system call.
+Author: Junya YANG
+Created: 2024/03/14
+----------------------------------End of Description-------------------------------------------------
+*/
+
+
 int main(void){
     char prompt[] = "Type a command: ";
     char buf[SIZE];
@@ -20,7 +30,7 @@ int main(void){
     }
     pid_t pid;
     int status;
-    // printf("Parent: Calling fork\n");
+    printf("Parent: Calling fork\n");
     pid = fork();
     if (pid < 0){
         printf("Parent: Fork failed\n");
