@@ -1,11 +1,26 @@
 #include<unistd.h>
 #include<sys/wait.h>
 #include<stdio.h>
+#include<string.h>
+#define SIZE 1024
 
 int main(void){
+    char prompt[] = "Type a command: ";
+    char buf[SIZE];
+    write(1, prompt, strlen(prompt));
+    read(0, buf, SIZE);
+     // Replace the Enter key typed by the user with ’\0’:
+    for (int i = 0; i < SIZE; i++)
+    {
+        if (buf[i] == '\n' || buf[i] == '\r')
+        {
+            buf[i] = '\0';
+            break;
+        }
+    }
     pid_t pid;
     int status;
-    printf("Parent: Calling fork\n");
+    // printf("Parent: Calling fork\n");
     pid = fork();
     if (pid < 0){
         printf("Parent: Fork failed\n");
@@ -14,7 +29,7 @@ int main(void){
     else if (pid==0)
     {
         printf("Child: now running the same program as parent, doing exec\n");
-        execlp("buf","buf",NULL);
+        execlp(buf,buf,NULL);
         printf("Child: exec faild, die\n");
         return 1;
     }
