@@ -4,6 +4,17 @@
 #include <string.h>
 #include <stdbool.h>
 
+/*
+----------------------------------Description--------------------------------------------------------
+The code is a simple sudoku solution checker. It reads a sudoku solution from a file and checks if the 
+solution is valid. It uses multiple threads to check the rows, columns, and 3x3 squares of the sudoku
+solution. If the solution is valid, it prints "This Sudoku solution is valid". Otherwise, it prints
+"Invalid Sudoku solution".
+Author: Junya YANG
+Created: 2024/03/24
+----------------------------------End of Description-------------------------------------------------
+*/
+
 // Define the number of threads
 #define NUM_THREADS 11
 // Define the size of the sudoku
