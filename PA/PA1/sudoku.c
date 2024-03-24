@@ -88,7 +88,7 @@ int main(int argc, char *argv[])
         {
             isSudoku = false; // Set the isSudoku to false
         }
-        free(status);
+        free(status); // Free the status
     }
     for (int i = 0; i < 9; i++) //Output the sudoku
     {
