@@ -1,8 +1,9 @@
 /****************************************************************************
  *                                                                          *
- * Author		:  	                                                        *
+ * Author		:  	 Junya YANG                                             *
  *                                                                          *
- * Studdent ID	: Console mode (command line) program.                      *
+ * Studdent ID	:  s230026188 												*
+ * Console mode (command line) program.                                     *
  *                                                                          *
  * Date			:                                             			    *
  *                                                         					*
@@ -109,7 +110,6 @@ Node *insertAPriorityProcess(Node *pHead, char name[], int burstTime, int priori
 	pNewProcess->next = NULL;
 	if (pNode1 == NULL)
 		return pNewProcess;
-
 	// Find the position to insert the new process
 	while (pNode1 != NULL)
 	{

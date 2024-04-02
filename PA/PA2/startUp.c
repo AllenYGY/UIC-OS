@@ -64,7 +64,7 @@ void runTask2(){
 	Node *Q4 = NULL;
 	Node *Q5 = NULL;
 	Node *RecordHead = NULL;
-	printf("Enter the q uantum for Q1, Q2, Q3, and Q4:");
+	printf("Enter the q uantum for Q1, Q2, Q3, and Q4: ");
 	int Qt1=0, Qt2=0, Qt3=0, Qt4=0;
 	scanf("%d %d %d %d" , &Qt1, &Qt2, &Qt3, &Qt4);
 	printf("Enter the number of processes to schedule: ");
