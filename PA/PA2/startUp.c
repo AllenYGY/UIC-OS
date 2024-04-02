@@ -77,7 +77,7 @@ void runTask2(){
 		name[2] = '\0';
 		int burstTime=0, priority=0;
 		printf("Enter the burst time and priority of P%d: ", count);
-		scanf("%d, %d", &burstTime, &priority);
+		scanf("%d,%d", &burstTime, &priority);
 		if(priority==1)
 			Q1=insertAPriorityProcess(Q1, name, burstTime, priority);
 		else if(priority==2)
