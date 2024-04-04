@@ -41,7 +41,6 @@ void runTask1(){
 	scanf("%d", &num);
 	int count=1;
 	while (count<=num){
-		// 拼接两个字符 
 		char name[20] = {'P', '\0'};
 		name[1] = '0'+count;
 		name[2] = '\0';
