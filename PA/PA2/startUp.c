@@ -101,5 +101,6 @@ void runTask2(){
 	// Schedule processes across multiple queues with different quantum times.
 	MFQS(&Q1, &Q2, &Q3, &Q4, &Q5, &RecordHead, Qt1, Qt2, Qt3, Qt4);
 	// Print the final scheduling order.
+	printf("The scheduling sequence is:");
 	printLinkedList(RecordHead);
 }
