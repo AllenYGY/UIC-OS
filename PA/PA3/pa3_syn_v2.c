@@ -31,14 +31,12 @@ int main(int argc, char *argv[]) {
 	pthread_create(&threadID_id, &attr, studentIDfunc, &threadID_id);
 	pthread_create(&threadName_id, &attr, namefunc, &threadName_id);
 	pthread_create(&threadAA_id, &attr, AAfunc, &threadAA_id);
-	
-    printf("Program is done\n");
-	/* Now join on each thread */
-
-
+		/* Now join on each thread */
 	pthread_join(threadID_id, NULL);
 	pthread_join(threadName_id, NULL);
 	pthread_join(threadAA_id, NULL);
+    printf("Program is done\n");
+
 	return 0;
 }
 void *studentIDfunc(void *param) {
@@ -121,5 +119,17 @@ It will be run by another thread, so the output order will be inconsistent
 
 /***
  * Output of Task2:
-
+0: My student ID is 2230026188
+1: My student ID is 2230026188
+2: My student ID is 2230026188
+3: My student ID is 2230026188
+4: My student ID is 2230026188
+5: My student ID is 2230026188
+6: My student ID is 2230026188
+7: My student ID is 2230026188
+8: My student ID is 2230026188
+9: My student ID is 2230026188
+My name is Junya YANG
+My AA is Nina Yingran MA
+Program is done
 */
