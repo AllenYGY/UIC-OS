@@ -27,11 +27,10 @@ int main(int argc, char *argv[]) {
 	sem_init(&sem3, 0, 0);
 
 	/* create 3 threads */
-
 	pthread_create(&threadID_id, &attr, studentIDfunc, &threadID_id);
 	pthread_create(&threadName_id, &attr, namefunc, &threadName_id);
 	pthread_create(&threadAA_id, &attr, AAfunc, &threadAA_id);
-		/* Now join on each thread */
+	/* Now join on each thread */
 	pthread_join(threadID_id, NULL);
 	pthread_join(threadName_id, NULL);
 	pthread_join(threadAA_id, NULL);
