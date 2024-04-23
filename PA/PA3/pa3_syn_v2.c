@@ -1,7 +1,6 @@
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
-
 #include <unistd.h>
 #include <signal.h>
 #include <semaphore.h> 
@@ -21,11 +20,9 @@ int main(int argc, char *argv[]) {
 	
 	/* get the default attributes */
 	pthread_attr_init(&attr);
-
 	sem_init(&sem1, 0, 1);
 	sem_init(&sem2, 0, 0);
 	sem_init(&sem3, 0, 0);
-
 	/* create 3 threads */
 	pthread_create(&threadID_id, &attr, studentIDfunc, &threadID_id);
 	pthread_create(&threadName_id, &attr, namefunc, &threadName_id);
@@ -35,26 +32,28 @@ int main(int argc, char *argv[]) {
 	pthread_join(threadName_id, NULL);
 	pthread_join(threadAA_id, NULL);
     printf("Program is done\n");
-
 	return 0;
 }
 void *studentIDfunc(void *param) {
-	sem_wait(&sem1);
+	sem_wait(&sem1); // Acquire the semaphore
 	for (int i = 0; i < 10; i++)
 	   printf("%d: My student ID is 2230026188\n", i);
-	sem_post(&sem2);
+	sem_post(&sem1); // Release the semaphore 1
+	sem_post(&sem2); // Release the semaphore 2
 	pthread_exit(0);
 
 }
 void *namefunc(void *param) {
-	sem_wait(&sem2);
+	sem_wait(&sem2); // Acquire the semaphore 2
 	printf("My name is Junya YANG\n");
-	sem_post(&sem3);
+	sem_post(&sem2); // Release the semaphore 2
+	sem_post(&sem3); // Release the semaphore 3
 	pthread_exit(0);
 }
 void *AAfunc(void *param) {
-	sem_wait(&sem3);
-	printf("My AA is Nina Yingran MA\n");	
+	sem_wait(&sem3); // Acquire the semaphore 3
+	printf("My AA is Nina Yingran MA\n");
+	sem_post(&sem3); // Release the semaphore 3
 	pthread_exit(0);
 }
 
