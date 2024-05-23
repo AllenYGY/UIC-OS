@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -23,7 +22,7 @@ char values[256][65536];
 int pageTable[65536];//An array which stores the valid-invalid i of each page
 entry TLB[16];
 
-void init()
+void init()//Initialize the TLB and page table
 {
     for (int i = 0; i < 16; i++)
     {
@@ -37,50 +36,49 @@ void init()
     }
 }
 
-void calculate_bitsForPageNo(int frameSize)
+void calculate_bitsForPageNo(int frameSize)//Calculate the number of bits for page number
 {
     bitsForPageNo = 16 - frameSize;
     pageTableSize = 1 << bitsForPageNo;
 }
 
-int check_input(int frameSize, int totalNumber) 
+int check_input(int frameSize, int totalNumber)//check the input, if the input is not satisfied, it will return false
 {
     int size = 1 << frameSize;
     int physical_memory = size * totalNumber;
     return (physical_memory <= 65536 && (physical_memory & (physical_memory - 1)) == 0);
 }
 
-int checkTLB(int pageNumber)
+int checkTLB(int pageNumber)//check the TLB, if the page is in the TLB, it will return the frame number, otherwise, it will return -1
 {
     for (int i = 0; i < 16; i++)
     {
         if (TLB[i].pageNumber == pageNumber)
         {
-            hit++;
             return TLB[i].frameNumber;
         }
     }
     return -1;
 }
 
-void updateTLB(int pageNumber, int frameNumber)
+void updateTLB(int pageNumber, int frameNumber)//update the TLB
 {
     TLB[indexOfTLB].pageNumber = pageNumber;
     TLB[indexOfTLB].frameNumber = frameNumber;
     indexOfTLB = (indexOfTLB + 1) % 16;
 }
 
-int checkPageTable(int pageNumber)
+int checkPageTable(int pageNumber)//check the pageTable, if the page is in the pageTable, it will return the frame number, otherwise, it will return -1
 {
     return pageTable[pageNumber];
 }
 
-void updatePageTable(int pageNumber, int frameNumber)
+void updatePageTable(int pageNumber, int frameNumber)//update the pageTable
 {
     pageTable[pageNumber] = frameNumber;
 }
 
-void loadPage(int pageNumber)
+void loadPage(int pageNumber)//load the page from the backing store to the memory
 {
     FILE *backing_store = fopen("backingstore.bin", "rb");
     if (!backing_store) 
@@ -101,7 +99,7 @@ void loadPage(int pageNumber)
     fault++;
 }
 
-void replacePage(int pageNumber)
+void replacePage(int pageNumber)//replace the page in the memory with the page in the backing store
 {
     //static int replaceIndex = 0;
     //int index = replaceIndex % totalNumber;
@@ -150,7 +148,7 @@ void replacePage(int pageNumber)
     //index = (index + 1) % totalNumber;
 }
 
-void translate(int address)
+void translate(int address)//translate the logical address to the physical address
 {
     int pageNumber = (address >> (16 - bitsForPageNo));
     int offset = address & ((1 << (16 - bitsForPageNo)) - 1);
@@ -158,14 +156,15 @@ void translate(int address)
     int frameNumber = checkTLB(pageNumber);
     if (frameNumber != -1) 
     {
-        printf("[TLB] (LA) %d -> (PA) %d: %c\n", address, (frameNumber << (16 - bitsForPageNo)) | offset, values[frameNumber][offset]);
+        hit++;
+        printf("[TLB] (LA) %d -> (PA) %d: %d\n", address, (frameNumber << (16 - bitsForPageNo)) | offset, values[frameNumber][offset]);
         return;
     }
     
     frameNumber = checkPageTable(pageNumber);
     if (frameNumber != -1) 
     {
-        printf("[Page Table] (LA) %d -> (PA) %d: %c\n", address, (frameNumber << (16 - bitsForPageNo)) | offset, values[frameNumber][offset]);
+        printf("[Page Table] (LA) %d -> (PA) %d: %d\n", address, (frameNumber << (16 - bitsForPageNo)) | offset, values[frameNumber][offset]);
         updateTLB(pageNumber, frameNumber);
         return;
     }
@@ -181,12 +180,12 @@ void translate(int address)
     frameNumber = checkTLB(pageNumber);
     if (frameNumber != -1) 
     {
-        printf("[TLB] (LA) %d -> (PA) %d: %c\n", address, (frameNumber << (16 - bitsForPageNo)) | offset, values[frameNumber][offset]);
+        printf("[TLB] (LA) %d -> (PA) %d: %d\n", address, (frameNumber << (16 - bitsForPageNo)) | offset, values[frameNumber][offset]);
         return;
     }
 }
 
-void generateStat()
+void generateStat()//generate the statistics of the page replacement algorithm
 {
     FILE *stat_file = fopen("stat.txt", "w");
     if (!stat_file) 
@@ -237,16 +236,16 @@ void generateStat()
 
 int main()
 { 
-    printf("Please input the frame size((use number of bits to represent): ");
+    fprintf(stderr, "Please input the frame size((use number of bits to represent): ");
     scanf("%d", &frameSize);
-    printf("Please input the total number of frames in physical memory: ");
+    fprintf(stderr, "Please input the total number of frames in physical memory: ");
     scanf("%d", &totalNumber);
     while (!check_input(frameSize, totalNumber))
     {
-        printf("Warning! Your input is invalid! Please input again.\n");
-        printf("Please input the frame size(use number of bits to represent): ");
+        fprintf(stderr, "Warning! Your input is invalid! Please input again.\n");
+        fprintf(stderr, "Please input the frame size(use number of bits to represent): ");
         scanf("%d", &frameSize);
-        printf("Please input the total number of frames in physical memory: ");
+        fprintf(stderr, "Please input the total number of frames in physical memory: ");
         scanf("%d", &totalNumber);
     }
     init();

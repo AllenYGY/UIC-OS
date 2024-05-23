@@ -1,0 +1,1244 @@
+    [Load Page] Page 66 -> Frame 0
+[TLB] (LA) 16916 -> (PA) 20: 0
+    [Load Page] Page 244 -> Frame 1
+[TLB] (LA) 62493 -> (PA) 285: 0
+    [Load Page] Page 117 -> Frame 2
+[TLB] (LA) 30198 -> (PA) 758: 29
+    [Load Page] Page 209 -> Frame 3
+[TLB] (LA) 53683 -> (PA) 947: 108
+    [Load Page] Page 156 -> Frame 4
+[TLB] (LA) 40185 -> (PA) 1273: 0
+    [Load Page] Page 112 -> Frame 5
+[TLB] (LA) 28781 -> (PA) 1389: 0
+    [Load Page] Page 95 -> Frame 6
+[TLB] (LA) 24462 -> (PA) 1678: 23
+    [Load Page] Page 189 -> Frame 7
+[TLB] (LA) 48399 -> (PA) 1807: 67
+    [Load Page] Page 253 -> Frame 8
+[TLB] (LA) 64815 -> (PA) 2095: 75
+    [Load Page] Page 71 -> Frame 9
+[TLB] (LA) 18295 -> (PA) 2423: -35
+    [Load Page] Page 47 -> Frame 10
+[TLB] (LA) 12218 -> (PA) 2746: 11
+    [Load Page] Page 88 -> Frame 11
+[TLB] (LA) 22760 -> (PA) 3048: 0
+    [Load Page] Page 226 -> Frame 12
+[TLB] (LA) 57982 -> (PA) 3198: 56
+    [Load Page] Page 109 -> Frame 13
+[TLB] (LA) 27966 -> (PA) 3390: 27
+    [Load Page] Page 214 -> Frame 14
+[TLB] (LA) 54894 -> (PA) 3694: 53
+    [Load Page] Page 152 -> Frame 15
+[TLB] (LA) 38929 -> (PA) 3857: 0
+    [Load Page] Page 128 -> Frame 16
+[TLB] (LA) 32865 -> (PA) 4193: 0
+    [Load Page] Page 250 -> Frame 17
+[TLB] (LA) 64243 -> (PA) 4595: -68
+    [Load Page] Page 9 -> Frame 18
+[TLB] (LA) 2315 -> (PA) 4619: 66
+    [Load Page] Page 251 -> Frame 19
+[TLB] (LA) 64454 -> (PA) 5062: 62
+    [Load Page] Page 215 -> Frame 20
+[TLB] (LA) 55041 -> (PA) 5121: 0
+    [Load Page] Page 72 -> Frame 21
+[TLB] (LA) 18633 -> (PA) 5577: 0
+    [Load Page] Page 56 -> Frame 22
+[TLB] (LA) 14557 -> (PA) 5853: 0
+    [Load Page] Page 238 -> Frame 23
+[TLB] (LA) 61006 -> (PA) 5966: 59
+[Page Table] (LA) 62615 -> (PA) 407: 37
+    [Load Page] Page 29 -> Frame 24
+[TLB] (LA) 7591 -> (PA) 6311: 105
+    [Load Page] Page 252 -> Frame 25
+[TLB] (LA) 64747 -> (PA) 6635: 58
+    [Load Page] Page 26 -> Frame 26
+[TLB] (LA) 6727 -> (PA) 6727: -111
+    [Load Page] Page 126 -> Frame 27
+[TLB] (LA) 32315 -> (PA) 6971: -114
+    [Load Page] Page 236 -> Frame 28
+[TLB] (LA) 60645 -> (PA) 7397: 0
+    [Load Page] Page 24 -> Frame 29
+[TLB] (LA) 6308 -> (PA) 7588: 0
+    [Load Page] Page 178 -> Frame 30
+[TLB] (LA) 45688 -> (PA) 7800: 0
+    [Load Page] Page 3 -> Frame 31
+[TLB] (LA) 969 -> (PA) 8137: 0
+    [Load Page] Page 159 -> Frame 32
+[TLB] (LA) 40891 -> (PA) 8379: -18
+    [Load Page] Page 192 -> Frame 33
+[TLB] (LA) 49294 -> (PA) 8590: 48
+    [Load Page] Page 160 -> Frame 34
+[TLB] (LA) 41118 -> (PA) 8862: 40
+    [Load Page] Page 83 -> Frame 35
+[TLB] (LA) 21395 -> (PA) 9107: -28
+    [Load Page] Page 23 -> Frame 36
+[TLB] (LA) 6091 -> (PA) 9419: -14
+    [Load Page] Page 127 -> Frame 37
+[TLB] (LA) 32541 -> (PA) 9501: 0
+    [Load Page] Page 69 -> Frame 38
+[TLB] (LA) 17665 -> (PA) 9729: 0
+    [Load Page] Page 14 -> Frame 39
+[TLB] (LA) 3784 -> (PA) 10184: 0
+[Page Table] (LA) 28718 -> (PA) 1326: 28
+    [Load Page] Page 231 -> Frame 40
+[TLB] (LA) 59240 -> (PA) 10344: 0
+[Page Table] (LA) 40178 -> (PA) 1266: 39
+    [Load Page] Page 234 -> Frame 41
+[TLB] (LA) 60086 -> (PA) 10678: 58
+    [Load Page] Page 165 -> Frame 42
+[TLB] (LA) 42252 -> (PA) 10764: 0
+    [Load Page] Page 174 -> Frame 43
+[TLB] (LA) 44770 -> (PA) 11234: 43
+    [Load Page] Page 87 -> Frame 44
+[TLB] (LA) 22514 -> (PA) 11506: 21
+    [Load Page] Page 11 -> Frame 45
+[TLB] (LA) 3067 -> (PA) 11771: -2
+    [Load Page] Page 61 -> Frame 46
+[TLB] (LA) 15757 -> (PA) 11917: 0
+    [Load Page] Page 123 -> Frame 47
+[TLB] (LA) 31649 -> (PA) 12193: 0
+    [Load Page] Page 42 -> Frame 48
+[TLB] (LA) 10842 -> (PA) 12378: 10
+    [Load Page] Page 170 -> Frame 49
+[TLB] (LA) 43765 -> (PA) 12789: 0
+    [Load Page] Page 130 -> Frame 50
+[TLB] (LA) 33405 -> (PA) 12925: 0
+    [Load Page] Page 175 -> Frame 51
+[TLB] (LA) 44954 -> (PA) 13210: 43
+    [Load Page] Page 221 -> Frame 52
+[TLB] (LA) 56657 -> (PA) 13393: 0
+    [Load Page] Page 19 -> Frame 53
+[TLB] (LA) 5003 -> (PA) 13707: -30
+    [Load Page] Page 196 -> Frame 54
+[TLB] (LA) 50227 -> (PA) 13875: 12
+    [Load Page] Page 75 -> Frame 55
+[TLB] (LA) 19358 -> (PA) 14238: 18
+    [Load Page] Page 142 -> Frame 56
+[TLB] (LA) 36529 -> (PA) 14513: 0
+    [Load Page] Page 40 -> Frame 57
+[TLB] (LA) 10392 -> (PA) 14744: 0
+    [Load Page] Page 230 -> Frame 58
+[TLB] (LA) 58882 -> (PA) 14850: 57
+    [Load Page] Page 20 -> Frame 59
+[TLB] (LA) 5129 -> (PA) 15113: 0
+    [Load Page] Page 228 -> Frame 60
+[TLB] (LA) 58554 -> (PA) 15546: 57
+[TLB] (LA) 58584 -> (PA) 15576: 0
+    [Load Page] Page 107 -> Frame 61
+[TLB] (LA) 27444 -> (PA) 15668: 0
+[TLB] (LA) 58982 -> (PA) 14950: 57
+    [Load Page] Page 201 -> Frame 62
+[TLB] (LA) 51476 -> (PA) 15892: 0
+[Page Table] (LA) 6796 -> (PA) 6796: 0
+[Page Table] (LA) 21311 -> (PA) 9023: -49
+    [Load Page] Page 119 -> Frame 63
+[TLB] (LA) 30705 -> (PA) 16369: 0
+    [Load Page] Page 113 -> Frame 64
+[TLB] (LA) 28964 -> (PA) 16420: 0
+[Page Table] (LA) 41003 -> (PA) 8747: 10
+    [Load Page] Page 79 -> Frame 65
+[TLB] (LA) 20259 -> (PA) 16675: -56
+[Page Table] (LA) 57857 -> (PA) 3073: 0
+    [Load Page] Page 247 -> Frame 66
+[TLB] (LA) 63258 -> (PA) 16922: 61
+[TLB] (LA) 36374 -> (PA) 14358: 35
+    [Load Page] Page 2 -> Frame 67
+[TLB] (LA) 692 -> (PA) 17332: 0
+    [Load Page] Page 168 -> Frame 68
+[TLB] (LA) 43121 -> (PA) 17521: 0
+    [Load Page] Page 188 -> Frame 69
+[TLB] (LA) 48128 -> (PA) 17664: 0
+    [Load Page] Page 135 -> Frame 70
+[TLB] (LA) 34561 -> (PA) 17921: 0
+[Page Table] (LA) 49213 -> (PA) 8509: 0
+    [Load Page] Page 144 -> Frame 71
+[TLB] (LA) 36922 -> (PA) 18234: 36
+[Page Table] (LA) 59162 -> (PA) 10266: 57
+    [Load Page] Page 197 -> Frame 72
+[TLB] (LA) 50552 -> (PA) 18552: 0
+[Page Table] (LA) 17866 -> (PA) 9930: 17
+    [Load Page] Page 70 -> Frame 73
+[TLB] (LA) 18145 -> (PA) 18913: 0
+    [Load Page] Page 15 -> Frame 74
+[TLB] (LA) 3884 -> (PA) 18988: 0
+    [Load Page] Page 212 -> Frame 75
+[TLB] (LA) 54388 -> (PA) 19316: 0
+    [Load Page] Page 167 -> Frame 76
+[TLB] (LA) 42932 -> (PA) 19636: 0
+    [Load Page] Page 183 -> Frame 77
+[TLB] (LA) 46919 -> (PA) 19783: -47
+[Page Table] (LA) 58892 -> (PA) 14860: 0
+    [Load Page] Page 33 -> Frame 78
+[TLB] (LA) 8620 -> (PA) 20140: 0
+    [Load Page] Page 149 -> Frame 79
+[TLB] (LA) 38336 -> (PA) 20416: 0
+[Page Table] (LA) 64357 -> (PA) 4965: 0
+    [Load Page] Page 91 -> Frame 80
+[TLB] (LA) 23387 -> (PA) 20571: -42
+    [Load Page] Page 166 -> Frame 81
+[TLB] (LA) 42632 -> (PA) 20872: 0
+    [Load Page] Page 62 -> Frame 82
+[TLB] (LA) 15913 -> (PA) 21033: 0
+[Page Table] (LA) 15679 -> (PA) 11839: 79
+[Page Table] (LA) 22501 -> (PA) 11493: 0
+    [Load Page] Page 146 -> Frame 83
+[TLB] (LA) 37540 -> (PA) 21412: 0
+    [Load Page] Page 21 -> Frame 84
+[TLB] (LA) 5527 -> (PA) 21655: 101
+    [Load Page] Page 249 -> Frame 85
+[TLB] (LA) 63921 -> (PA) 21937: 0
+[Page Table] (LA) 62716 -> (PA) 508: 0
+[Page Table] (LA) 32874 -> (PA) 4202: 32
+[TLB] (LA) 64390 -> (PA) 4998: 62
+    [Load Page] Page 246 -> Frame 86
+[TLB] (LA) 63101 -> (PA) 22141: 0
+    [Load Page] Page 241 -> Frame 87
+[TLB] (LA) 61802 -> (PA) 22378: 60
+    [Load Page] Page 76 -> Frame 88
+[TLB] (LA) 19648 -> (PA) 22720: 0
+[Page Table] (LA) 29031 -> (PA) 16487: 89
+[Page Table] (LA) 44981 -> (PA) 13237: 0
+[Page Table] (LA) 28092 -> (PA) 3516: 0
+    [Load Page] Page 36 -> Frame 89
+[TLB] (LA) 9448 -> (PA) 23016: 0
+[Page Table] (LA) 44744 -> (PA) 11208: 0
+    [Load Page] Page 240 -> Frame 90
+[TLB] (LA) 61496 -> (PA) 23096: 0
+    [Load Page] Page 122 -> Frame 91
+[TLB] (LA) 31453 -> (PA) 23517: 0
+    [Load Page] Page 237 -> Frame 92
+[TLB] (LA) 60746 -> (PA) 23626: 59
+[Page Table] (LA) 12199 -> (PA) 2727: -23
+    [Load Page] Page 243 -> Frame 93
+[TLB] (LA) 62255 -> (PA) 23855: -53
+    [Load Page] Page 85 -> Frame 94
+[TLB] (LA) 21793 -> (PA) 24097: 0
+    [Load Page] Page 103 -> Frame 95
+[TLB] (LA) 26544 -> (PA) 24496: 0
+    [Load Page] Page 58 -> Frame 96
+[TLB] (LA) 14964 -> (PA) 24692: 0
+    [Load Page] Page 161 -> Frame 97
+[TLB] (LA) 41462 -> (PA) 25078: 40
+    [Load Page] Page 219 -> Frame 98
+[TLB] (LA) 56089 -> (PA) 25113: 0
+    [Load Page] Page 203 -> Frame 99
+[TLB] (LA) 52038 -> (PA) 25414: 50
+    [Load Page] Page 187 -> Frame 100
+[TLB] (LA) 47982 -> (PA) 25710: 46
+    [Load Page] Page 232 -> Frame 101
+[TLB] (LA) 59484 -> (PA) 25948: 0
+    [Load Page] Page 198 -> Frame 102
+[TLB] (LA) 50924 -> (PA) 26348: 0
+    [Load Page] Page 27 -> Frame 103
+[TLB] (LA) 6942 -> (PA) 26398: 6
+    [Load Page] Page 136 -> Frame 104
+[TLB] (LA) 34998 -> (PA) 26806: 34
+    [Load Page] Page 105 -> Frame 105
+[TLB] (LA) 27069 -> (PA) 27069: 0
+    [Load Page] Page 202 -> Frame 106
+[TLB] (LA) 51926 -> (PA) 27350: 50
+[Page Table] (LA) 60645 -> (PA) 7397: 0
+[Page Table] (LA) 43181 -> (PA) 17581: 0
+    [Load Page] Page 41 -> Frame 107
+[TLB] (LA) 10559 -> (PA) 27455: 79
+    [Load Page] Page 18 -> Frame 108
+[TLB] (LA) 4664 -> (PA) 27704: 0
+    [Load Page] Page 111 -> Frame 109
+[TLB] (LA) 28578 -> (PA) 28066: 27
+[TLB] (LA) 59516 -> (PA) 25980: 0
+[Page Table] (LA) 38912 -> (PA) 3840: 0
+    [Load Page] Page 248 -> Frame 110
+[TLB] (LA) 63562 -> (PA) 28234: 62
+[Page Table] (LA) 64846 -> (PA) 2126: 63
+    [Load Page] Page 245 -> Frame 111
+[TLB] (LA) 62938 -> (PA) 28634: 61
+    [Load Page] Page 106 -> Frame 112
+[TLB] (LA) 27194 -> (PA) 28730: 26
+[Page Table] (LA) 28804 -> (PA) 1412: 0
+[Page Table] (LA) 61703 -> (PA) 22279: 65
+[Page Table] (LA) 10998 -> (PA) 12534: 10
+    [Load Page] Page 25 -> Frame 113
+[TLB] (LA) 6596 -> (PA) 29124: 0
+    [Load Page] Page 147 -> Frame 114
+[TLB] (LA) 37721 -> (PA) 29273: 0
+    [Load Page] Page 169 -> Frame 115
+[TLB] (LA) 43430 -> (PA) 29606: 42
+[Page Table] (LA) 22692 -> (PA) 2980: 0
+[TLB] (LA) 62971 -> (PA) 28667: 126
+    [Load Page] Page 184 -> Frame 116
+[TLB] (LA) 47125 -> (PA) 29717: 0
+    [Load Page] Page 205 -> Frame 117
+[TLB] (LA) 52521 -> (PA) 29993: 0
+[Page Table] (LA) 34646 -> (PA) 18006: 33
+[Page Table] (LA) 32889 -> (PA) 4217: 0
+    [Load Page] Page 50 -> Frame 118
+[TLB] (LA) 13055 -> (PA) 30463: -65
+    [Load Page] Page 255 -> Frame 119
+[TLB] (LA) 65416 -> (PA) 30600: 0
+[TLB] (LA) 62869 -> (PA) 28565: 0
+    [Load Page] Page 223 -> Frame 120
+[TLB] (LA) 57314 -> (PA) 30946: 55
+    [Load Page] Page 49 -> Frame 121
+[TLB] (LA) 12659 -> (PA) 31091: 92
+    [Load Page] Page 54 -> Frame 122
+[TLB] (LA) 14052 -> (PA) 31460: 0
+[TLB] (LA) 32956 -> (PA) 4284: 0
+[Page Table] (LA) 49273 -> (PA) 8569: 0
+[Page Table] (LA) 50352 -> (PA) 14000: 0
+    [Load Page] Page 194 -> Frame 123
+[TLB] (LA) 49737 -> (PA) 31561: 0
+    [Load Page] Page 60 -> Frame 124
+[TLB] (LA) 15555 -> (PA) 31939: 48
+    [Load Page] Page 185 -> Frame 125
+[TLB] (LA) 47475 -> (PA) 32115: 92
+    [Load Page] Page 59 -> Frame 126
+[TLB] (LA) 15328 -> (PA) 32480: 0
+[TLB] (LA) 34621 -> (PA) 17981: 0
+    [Load Page] Page 200 -> Frame 127
+[TLB] (LA) 51365 -> (PA) 32677: 0
+[TLB] (LA) 32820 -> (PA) 4148: 0
+    [Load Page] Page 190 -> Frame 128
+[TLB] (LA) 48855 -> (PA) 32983: -75
+[Page Table] (LA) 12224 -> (PA) 2752: 0
+    [Load Page] Page 7 -> Frame 129
+[TLB] (LA) 2035 -> (PA) 33267: -4
+[Page Table] (LA) 60539 -> (PA) 7291: 30
+    [Load Page] Page 57 -> Frame 130
+[TLB] (LA) 14595 -> (PA) 33283: 64
+[TLB] (LA) 13853 -> (PA) 31261: 0
+    [Load Page] Page 94 -> Frame 131
+[TLB] (LA) 24143 -> (PA) 33615: -109
+[TLB] (LA) 15216 -> (PA) 32368: 0
+    [Load Page] Page 31 -> Frame 132
+[TLB] (LA) 8113 -> (PA) 33969: 0
+[Page Table] (LA) 22640 -> (PA) 2928: 0
+[Page Table] (LA) 32978 -> (PA) 4306: 32
+[Page Table] (LA) 39151 -> (PA) 4079: 59
+[Page Table] (LA) 19520 -> (PA) 22592: 0
+    [Load Page] Page 227 -> Frame 133
+[TLB] (LA) 58141 -> (PA) 34077: 0
+[Page Table] (LA) 63959 -> (PA) 21975: 117
+    [Load Page] Page 207 -> Frame 134
+[TLB] (LA) 53040 -> (PA) 34352: 0
+    [Load Page] Page 218 -> Frame 135
+[TLB] (LA) 55842 -> (PA) 34594: 54
+[Page Table] (LA) 585 -> (PA) 17225: 0
+[Page Table] (LA) 51229 -> (PA) 32541: 0
+[Page Table] (LA) 64181 -> (PA) 4533: 0
+[Page Table] (LA) 54879 -> (PA) 3679: -105
+    [Load Page] Page 110 -> Frame 136
+[TLB] (LA) 28210 -> (PA) 34866: 27
+[Page Table] (LA) 10268 -> (PA) 14620: 0
+[Page Table] (LA) 15395 -> (PA) 31779: 8
+[Page Table] (LA) 12884 -> (PA) 30292: 0
+    [Load Page] Page 8 -> Frame 137
+[TLB] (LA) 2149 -> (PA) 35173: 0
+    [Load Page] Page 208 -> Frame 138
+[TLB] (LA) 53483 -> (PA) 35563: 58
+[Page Table] (LA) 59606 -> (PA) 26070: 58
+[Page Table] (LA) 14981 -> (PA) 24709: 0
+    [Load Page] Page 143 -> Frame 139
+[TLB] (LA) 36672 -> (PA) 35648: 0
+    [Load Page] Page 90 -> Frame 140
+[TLB] (LA) 23197 -> (PA) 35997: 0
+[Page Table] (LA) 36518 -> (PA) 14502: 35
+    [Load Page] Page 52 -> Frame 141
+[TLB] (LA) 13361 -> (PA) 36145: 0
+    [Load Page] Page 77 -> Frame 142
+[TLB] (LA) 19810 -> (PA) 36450: 19
+    [Load Page] Page 101 -> Frame 143
+[TLB] (LA) 25955 -> (PA) 36707: 88
+[Page Table] (LA) 62678 -> (PA) 470: 61
+[TLB] (LA) 26021 -> (PA) 36773: 0
+    [Load Page] Page 114 -> Frame 144
+[TLB] (LA) 29409 -> (PA) 37089: 0
+    [Load Page] Page 148 -> Frame 145
+[TLB] (LA) 38111 -> (PA) 37343: 55
+[Page Table] (LA) 58573 -> (PA) 15565: 0
+    [Load Page] Page 222 -> Frame 146
+[TLB] (LA) 56840 -> (PA) 37384: 0
+[Page Table] (LA) 41306 -> (PA) 24922: 40
+[Page Table] (LA) 54426 -> (PA) 19354: 53
+[Page Table] (LA) 3617 -> (PA) 10017: 0
+[Page Table] (LA) 50652 -> (PA) 18652: 0
+[TLB] (LA) 41452 -> (PA) 25068: 0
+[Page Table] (LA) 20241 -> (PA) 16657: 0
+[Page Table] (LA) 31723 -> (PA) 12267: -6
+[Page Table] (LA) 53747 -> (PA) 1011: 124
+[Page Table] (LA) 28550 -> (PA) 28038: 27
+[Page Table] (LA) 23402 -> (PA) 20586: 22
+    [Load Page] Page 82 -> Frame 147
+[TLB] (LA) 21205 -> (PA) 37845: 0
+[Page Table] (LA) 56181 -> (PA) 25205: 0
+    [Load Page] Page 224 -> Frame 148
+[TLB] (LA) 57470 -> (PA) 38014: 56
+    [Load Page] Page 155 -> Frame 149
+[TLB] (LA) 39933 -> (PA) 38397: 0
+[Page Table] (LA) 34964 -> (PA) 26772: 0
+    [Load Page] Page 96 -> Frame 150
+[TLB] (LA) 24781 -> (PA) 38605: 0
+    [Load Page] Page 163 -> Frame 151
+[TLB] (LA) 41747 -> (PA) 38675: -60
+[Page Table] (LA) 62564 -> (PA) 356: 0
+[Page Table] (LA) 58461 -> (PA) 15453: 0
+    [Load Page] Page 81 -> Frame 152
+[TLB] (LA) 20858 -> (PA) 39034: 20
+[Page Table] (LA) 49301 -> (PA) 8597: 0
+    [Load Page] Page 158 -> Frame 153
+[TLB] (LA) 40572 -> (PA) 39292: 0
+    [Load Page] Page 93 -> Frame 154
+[TLB] (LA) 23840 -> (PA) 39456: 0
+    [Load Page] Page 137 -> Frame 155
+[TLB] (LA) 35278 -> (PA) 39886: 34
+[Page Table] (LA) 62905 -> (PA) 28601: 0
+[Page Table] (LA) 56650 -> (PA) 13386: 55
+    [Load Page] Page 43 -> Frame 156
+[TLB] (LA) 11149 -> (PA) 40077: 0
+[Page Table] (LA) 38920 -> (PA) 3848: 0
+[Page Table] (LA) 23430 -> (PA) 20614: 22
+[Page Table] (LA) 57592 -> (PA) 38136: 0
+    [Load Page] Page 12 -> Frame 157
+[TLB] (LA) 3080 -> (PA) 40200: 0
+[Page Table] (LA) 6677 -> (PA) 6677: 0
+[Page Table] (LA) 50704 -> (PA) 26128: 0
+[Page Table] (LA) 51883 -> (PA) 27307: -86
+[TLB] (LA) 62799 -> (PA) 28495: 83
+    [Load Page] Page 78 -> Frame 158
+[TLB] (LA) 20188 -> (PA) 40668: 0
+    [Load Page] Page 4 -> Frame 159
+[TLB] (LA) 1245 -> (PA) 40925: 0
+[Page Table] (LA) 12220 -> (PA) 2748: 0
+    [Load Page] Page 68 -> Frame 160
+[TLB] (LA) 17602 -> (PA) 41154: 17
+[Page Table] (LA) 28609 -> (PA) 28097: 0
+[Page Table] (LA) 42694 -> (PA) 20934: 41
+    [Load Page] Page 116 -> Frame 161
+[TLB] (LA) 29826 -> (PA) 41346: 29
+[Page Table] (LA) 13827 -> (PA) 31235: -128
+[Page Table] (LA) 27336 -> (PA) 28872: 0
+[Page Table] (LA) 53343 -> (PA) 35423: 23
+    [Load Page] Page 45 -> Frame 162
+[TLB] (LA) 11533 -> (PA) 41485: 0
+    [Load Page] Page 162 -> Frame 163
+[TLB] (LA) 41713 -> (PA) 41969: 0
+    [Load Page] Page 132 -> Frame 164
+[TLB] (LA) 33890 -> (PA) 42082: 33
+[Page Table] (LA) 4894 -> (PA) 13598: 4
+[Page Table] (LA) 57599 -> (PA) 38143: 63
+[Page Table] (LA) 3870 -> (PA) 18974: 3
+[Page Table] (LA) 58622 -> (PA) 15614: 57
+[TLB] (LA) 29780 -> (PA) 41300: 0
+[Page Table] (LA) 62553 -> (PA) 345: 0
+[Page Table] (LA) 2303 -> (PA) 35327: 63
+[Page Table] (LA) 51915 -> (PA) 27339: -78
+[Page Table] (LA) 6251 -> (PA) 7531: 26
+[Page Table] (LA) 38107 -> (PA) 37339: 54
+[Page Table] (LA) 59325 -> (PA) 10429: 0
+    [Load Page] Page 239 -> Frame 165
+[TLB] (LA) 61295 -> (PA) 42351: -37
+    [Load Page] Page 104 -> Frame 166
+[TLB] (LA) 26699 -> (PA) 42571: 18
+    [Load Page] Page 199 -> Frame 167
+[TLB] (LA) 51188 -> (PA) 42996: 0
+[Page Table] (LA) 59519 -> (PA) 25983: 31
+    [Load Page] Page 28 -> Frame 168
+[TLB] (LA) 7345 -> (PA) 43185: 0
+[Page Table] (LA) 20325 -> (PA) 16741: 0
+    [Load Page] Page 154 -> Frame 169
+[TLB] (LA) 39633 -> (PA) 43473: 0
+    [Load Page] Page 6 -> Frame 170
+[TLB] (LA) 1562 -> (PA) 43546: 1
+[Page Table] (LA) 7580 -> (PA) 6300: 0
+[Page Table] (LA) 8170 -> (PA) 34026: 7
+[Page Table] (LA) 62256 -> (PA) 23856: 0
+    [Load Page] Page 139 -> Frame 171
+[TLB] (LA) 35823 -> (PA) 44015: -5
+    [Load Page] Page 108 -> Frame 172
+[TLB] (LA) 27790 -> (PA) 44174: 27
+    [Load Page] Page 51 -> Frame 173
+[TLB] (LA) 13191 -> (PA) 44423: -31
+    [Load Page] Page 38 -> Frame 174
+[TLB] (LA) 9772 -> (PA) 44588: 0
+[TLB] (LA) 7477 -> (PA) 6197: 0
+    [Load Page] Page 173 -> Frame 175
+[TLB] (LA) 44455 -> (PA) 44967: 105
+[TLB] (LA) 59546 -> (PA) 26010: 58
+[Page Table] (LA) 49347 -> (PA) 8643: 48
+[Page Table] (LA) 36539 -> (PA) 14523: -82
+    [Load Page] Page 48 -> Frame 176
+[TLB] (LA) 12453 -> (PA) 45221: 0
+    [Load Page] Page 193 -> Frame 177
+[TLB] (LA) 49640 -> (PA) 45544: 0
+[Page Table] (LA) 28290 -> (PA) 34946: 27
+[Page Table] (LA) 44817 -> (PA) 13073: 0
+[Page Table] (LA) 8565 -> (PA) 20085: 0
+    [Load Page] Page 64 -> Frame 178
+[TLB] (LA) 16399 -> (PA) 45583: 3
+[Page Table] (LA) 41934 -> (PA) 38862: 40
+    [Load Page] Page 177 -> Frame 179
+[TLB] (LA) 45457 -> (PA) 45969: 0
+[Page Table] (LA) 33856 -> (PA) 42048: 0
+[Page Table] (LA) 19498 -> (PA) 22570: 19
+[Page Table] (LA) 17661 -> (PA) 41213: 0
+[Page Table] (LA) 63829 -> (PA) 21845: 0
+    [Load Page] Page 164 -> Frame 180
+[TLB] (LA) 42034 -> (PA) 46130: 41
+[Page Table] (LA) 28928 -> (PA) 16384: 0
+[Page Table] (LA) 30711 -> (PA) 16375: -3
+    [Load Page] Page 34 -> Frame 181
+[TLB] (LA) 8800 -> (PA) 46432: 0
+    [Load Page] Page 204 -> Frame 182
+[TLB] (LA) 52335 -> (PA) 46703: 27
+    [Load Page] Page 151 -> Frame 183
+[TLB] (LA) 38775 -> (PA) 46967: -35
+[Page Table] (LA) 52704 -> (PA) 30176: 0
+[Page Table] (LA) 24380 -> (PA) 1596: 0
+[TLB] (LA) 19602 -> (PA) 22674: 19
+[Page Table] (LA) 57998 -> (PA) 3214: 56
+[Page Table] (LA) 2919 -> (PA) 11623: -39
+    [Load Page] Page 32 -> Frame 184
+[TLB] (LA) 8362 -> (PA) 47274: 8
+[Page Table] (LA) 17884 -> (PA) 9948: 0
+[Page Table] (LA) 45737 -> (PA) 7849: 0
+[Page Table] (LA) 47894 -> (PA) 25622: 46
+    [Load Page] Page 233 -> Frame 185
+[TLB] (LA) 59667 -> (PA) 47379: 68
+[Page Table] (LA) 10385 -> (PA) 14737: 0
+    [Load Page] Page 206 -> Frame 186
+[TLB] (LA) 52782 -> (PA) 47662: 51
+[Page Table] (LA) 64416 -> (PA) 5024: 0
+[Page Table] (LA) 40946 -> (PA) 8434: 39
+    [Load Page] Page 65 -> Frame 187
+[TLB] (LA) 16778 -> (PA) 48010: 16
+[Page Table] (LA) 27159 -> (PA) 28695: -123
+[TLB] (LA) 24324 -> (PA) 1540: 0
+[Page Table] (LA) 32450 -> (PA) 7106: 31
+    [Load Page] Page 35 -> Frame 188
+[TLB] (LA) 9108 -> (PA) 48276: 0
+[Page Table] (LA) 65305 -> (PA) 30489: 0
+[Page Table] (LA) 19575 -> (PA) 22647: 29
+[Page Table] (LA) 11117 -> (PA) 40045: 0
+    [Load Page] Page 254 -> Frame 189
+[TLB] (LA) 65170 -> (PA) 48530: 63
+[Page Table] (LA) 58013 -> (PA) 3229: 0
+[Page Table] (LA) 61676 -> (PA) 23276: 0
+[Page Table] (LA) 63510 -> (PA) 28182: 62
+[Page Table] (LA) 17458 -> (PA) 41010: 17
+    [Load Page] Page 213 -> Frame 190
+[TLB] (LA) 54675 -> (PA) 48787: 100
+[Page Table] (LA) 1713 -> (PA) 43697: 0
+[Page Table] (LA) 55105 -> (PA) 5185: 0
+[TLB] (LA) 65321 -> (PA) 30505: 0
+    [Load Page] Page 176 -> Frame 191
+[TLB] (LA) 45278 -> (PA) 49118: 44
+    [Load Page] Page 102 -> Frame 192
+[TLB] (LA) 26256 -> (PA) 49296: 0
+[Page Table] (LA) 64198 -> (PA) 4550: 62
+    [Load Page] Page 115 -> Frame 193
+[TLB] (LA) 29441 -> (PA) 49409: 0
+[Page Table] (LA) 1928 -> (PA) 33160: 0
+[Page Table] (LA) 39425 -> (PA) 43265: 0
+    [Load Page] Page 125 -> Frame 194
+[TLB] (LA) 32000 -> (PA) 49664: 0
+[Page Table] (LA) 28549 -> (PA) 28037: 0
+    [Load Page] Page 180 -> Frame 195
+[TLB] (LA) 46295 -> (PA) 50135: 53
+[Page Table] (LA) 22772 -> (PA) 3060: 0
+[Page Table] (LA) 58228 -> (PA) 34164: 0
+[TLB] (LA) 63525 -> (PA) 28197: 0
+[Page Table] (LA) 32602 -> (PA) 9562: 31
+[TLB] (LA) 46195 -> (PA) 50035: 28
+[Page Table] (LA) 55849 -> (PA) 34601: 0
+    [Load Page] Page 181 -> Frame 196
+[TLB] (LA) 46454 -> (PA) 50294: 45
+[Page Table] (LA) 7487 -> (PA) 6207: 79
+[Page Table] (LA) 33879 -> (PA) 42071: 21
+[Page Table] (LA) 42004 -> (PA) 46100: 0
+[Page Table] (LA) 8599 -> (PA) 20119: 101
+[Page Table] (LA) 18641 -> (PA) 5585: 0
+    [Load Page] Page 191 -> Frame 197
+[TLB] (LA) 49015 -> (PA) 50551: -35
+[Page Table] (LA) 26830 -> (PA) 42702: 26
+[Page Table] (LA) 34754 -> (PA) 18114: 33
+[Page Table] (LA) 14668 -> (PA) 33356: 0
+[Page Table] (LA) 38362 -> (PA) 20442: 37
+[Page Table] (LA) 38791 -> (PA) 46983: -31
+    [Load Page] Page 16 -> Frame 198
+[TLB] (LA) 4171 -> (PA) 50763: 18
+    [Load Page] Page 179 -> Frame 199
+[TLB] (LA) 45975 -> (PA) 51095: -27
+[TLB] (LA) 14623 -> (PA) 33311: 71
+[Page Table] (LA) 62393 -> (PA) 23993: 0
+[Page Table] (LA) 64658 -> (PA) 6546: 63
+[Page Table] (LA) 10963 -> (PA) 12499: -76
+[Page Table] (LA) 9058 -> (PA) 48226: 8
+[Page Table] (LA) 51031 -> (PA) 42839: -43
+[Page Table] (LA) 32425 -> (PA) 7081: 0
+[Page Table] (LA) 45483 -> (PA) 45995: 106
+[Page Table] (LA) 44611 -> (PA) 11075: -112
+[Page Table] (LA) 63664 -> (PA) 28336: 0
+[Page Table] (LA) 54920 -> (PA) 3720: 0
+[Page Table] (LA) 7663 -> (PA) 6383: 123
+    [Load Page] Page 220 -> Frame 200
+[TLB] (LA) 56480 -> (PA) 51360: 0
+    [Load Page] Page 5 -> Frame 201
+[TLB] (LA) 1489 -> (PA) 51665: 0
+[Page Table] (LA) 28438 -> (PA) 27926: 27
+[Page Table] (LA) 65449 -> (PA) 30633: 0
+[Page Table] (LA) 12441 -> (PA) 45209: 0
+[Page Table] (LA) 58530 -> (PA) 15522: 57
+[TLB] (LA) 63570 -> (PA) 28242: 62
+[Page Table] (LA) 26251 -> (PA) 49291: -94
+[Page Table] (LA) 15972 -> (PA) 21092: 0
+[Page Table] (LA) 35826 -> (PA) 44018: 34
+[Page Table] (LA) 5491 -> (PA) 21619: 92
+    [Load Page] Page 211 -> Frame 202
+[TLB] (LA) 54253 -> (PA) 51949: 0
+[Page Table] (LA) 49655 -> (PA) 45559: 125
+    [Load Page] Page 22 -> Frame 203
+[TLB] (LA) 5868 -> (PA) 52204: 0
+[Page Table] (LA) 20163 -> (PA) 40643: -80
+[Page Table] (LA) 51079 -> (PA) 42887: -31
+[Page Table] (LA) 21398 -> (PA) 9110: 20
+[Page Table] (LA) 32756 -> (PA) 9716: 0
+[Page Table] (LA) 64196 -> (PA) 4548: 0
+[Page Table] (LA) 43218 -> (PA) 17618: 42
+    [Load Page] Page 84 -> Frame 204
+[TLB] (LA) 21583 -> (PA) 52303: 19
+    [Load Page] Page 97 -> Frame 205
+[TLB] (LA) 25086 -> (PA) 52734: 24
+[Page Table] (LA) 45515 -> (PA) 46027: 114
+[Page Table] (LA) 12893 -> (PA) 30301: 0
+    [Load Page] Page 89 -> Frame 206
+[TLB] (LA) 22914 -> (PA) 52866: 22
+[Page Table] (LA) 58969 -> (PA) 14937: 0
+[TLB] (LA) 20094 -> (PA) 40574: 19
+    [Load Page] Page 53 -> Frame 207
+[TLB] (LA) 13730 -> (PA) 53154: 13
+    [Load Page] Page 172 -> Frame 208
+[TLB] (LA) 44059 -> (PA) 53275: 6
+[Page Table] (LA) 28931 -> (PA) 16387: 64
+[Page Table] (LA) 13533 -> (PA) 36317: 0
+    [Load Page] Page 129 -> Frame 209
+[TLB] (LA) 33134 -> (PA) 53614: 32
+[Page Table] (LA) 28483 -> (PA) 27971: -48
+[Page Table] (LA) 1220 -> (PA) 40900: 0
+[Page Table] (LA) 38174 -> (PA) 20254: 37
+[Page Table] (LA) 53502 -> (PA) 35582: 52
+[Page Table] (LA) 43328 -> (PA) 29504: 0
+[Page Table] (LA) 4970 -> (PA) 13674: 4
+[Page Table] (LA) 8090 -> (PA) 33946: 7
+    [Load Page] Page 10 -> Frame 210
+[TLB] (LA) 2661 -> (PA) 53861: 0
+    [Load Page] Page 210 -> Frame 211
+[TLB] (LA) 53903 -> (PA) 54159: -93
+[Page Table] (LA) 11025 -> (PA) 39953: 0
+[Page Table] (LA) 26627 -> (PA) 42499: 0
+[Page Table] (LA) 18117 -> (PA) 18885: 0
+[Page Table] (LA) 14505 -> (PA) 5801: 0
+[Page Table] (LA) 61528 -> (PA) 23128: 0
+[Page Table] (LA) 20423 -> (PA) 16839: -15
+[Page Table] (LA) 26962 -> (PA) 26962: 26
+[Page Table] (LA) 36392 -> (PA) 14376: 0
+    [Load Page] Page 44 -> Frame 212
+[TLB] (LA) 11365 -> (PA) 54373: 0
+[Page Table] (LA) 50882 -> (PA) 26306: 49
+[Page Table] (LA) 41668 -> (PA) 41924: 0
+[Page Table] (LA) 30497 -> (PA) 16161: 0
+    [Load Page] Page 141 -> Frame 213
+[TLB] (LA) 36216 -> (PA) 54648: 0
+[Page Table] (LA) 5619 -> (PA) 21747: 124
+[Page Table] (LA) 36983 -> (PA) 18295: 29
+[Page Table] (LA) 59557 -> (PA) 26021: 0
+[Page Table] (LA) 36663 -> (PA) 35639: -51
+[TLB] (LA) 36436 -> (PA) 14420: 0
+[TLB] (LA) 37057 -> (PA) 18369: 0
+    [Load Page] Page 92 -> Frame 214
+[TLB] (LA) 23585 -> (PA) 54817: 0
+    [Load Page] Page 229 -> Frame 215
+[TLB] (LA) 58791 -> (PA) 55207: 105
+    [Load Page] Page 182 -> Frame 216
+[TLB] (LA) 46666 -> (PA) 55370: 45
+[Page Table] (LA) 64475 -> (PA) 5083: -10
+[Page Table] (LA) 21615 -> (PA) 52335: 27
+[Page Table] (LA) 41090 -> (PA) 8834: 40
+[Page Table] (LA) 1771 -> (PA) 43755: -70
+[Page Table] (LA) 47513 -> (PA) 32153: 0
+    [Load Page] Page 153 -> Frame 217
+[TLB] (LA) 39338 -> (PA) 55722: 38
+[Page Table] (LA) 1390 -> (PA) 51566: 1
+[Page Table] (LA) 38772 -> (PA) 46964: 0
+[Page Table] (LA) 58149 -> (PA) 34085: 0
+[Page Table] (LA) 7196 -> (PA) 43036: 0
+[Page Table] (LA) 9123 -> (PA) 48291: -24
+[Page Table] (LA) 7491 -> (PA) 6211: 80
+[Page Table] (LA) 62616 -> (PA) 408: 0
+[Page Table] (LA) 15436 -> (PA) 31820: 0
+[Page Table] (LA) 17491 -> (PA) 41043: 20
+[Page Table] (LA) 53656 -> (PA) 920: 0
+[Page Table] (LA) 26449 -> (PA) 24401: 0
+[Page Table] (LA) 34935 -> (PA) 26743: 29
+[Page Table] (LA) 19864 -> (PA) 36504: 0
+[Page Table] (LA) 51388 -> (PA) 32700: 0
+[Page Table] (LA) 15155 -> (PA) 32307: -52
+[Page Table] (LA) 64775 -> (PA) 2055: 65
+[Page Table] (LA) 47969 -> (PA) 25697: 0
+    [Load Page] Page 63 -> Frame 218
+[TLB] (LA) 16315 -> (PA) 55995: -18
+[Page Table] (LA) 1342 -> (PA) 51518: 1
+[Page Table] (LA) 51185 -> (PA) 42993: 0
+[Page Table] (LA) 6043 -> (PA) 9371: -26
+[Page Table] (LA) 21398 -> (PA) 9110: 20
+[Page Table] (LA) 3273 -> (PA) 40393: 0
+[Page Table] (LA) 9370 -> (PA) 22938: 9
+    [Load Page] Page 138 -> Frame 219
+[TLB] (LA) 35463 -> (PA) 56199: -95
+[Page Table] (LA) 28205 -> (PA) 34861: 0
+[Page Table] (LA) 2351 -> (PA) 4655: 75
+[Page Table] (LA) 28999 -> (PA) 16455: 81
+    [Load Page] Page 186 -> Frame 220
+[TLB] (LA) 47699 -> (PA) 56403: -108
+[Page Table] (LA) 46870 -> (PA) 19734: 45
+[Page Table] (LA) 22311 -> (PA) 11303: -55
+    [Load Page] Page 86 -> Frame 221
+[TLB] (LA) 22124 -> (PA) 56684: 0
+[TLB] (LA) 22427 -> (PA) 11419: -26
+[Page Table] (LA) 49344 -> (PA) 8640: 0
+[Page Table] (LA) 23224 -> (PA) 36024: 0
+[Page Table] (LA) 5514 -> (PA) 21642: 5
+    [Load Page] Page 80 -> Frame 222
+[TLB] (LA) 20504 -> (PA) 56856: 0
+    [Load Page] Page 1 -> Frame 223
+[TLB] (LA) 376 -> (PA) 57208: 0
+[Page Table] (LA) 2014 -> (PA) 33246: 1
+[Page Table] (LA) 38700 -> (PA) 46892: 0
+[Page Table] (LA) 13098 -> (PA) 44330: 12
+[Page Table] (LA) 62435 -> (PA) 24035: -8
+[Page Table] (LA) 48046 -> (PA) 25774: 46
+[Page Table] (LA) 63464 -> (PA) 17128: 0
+[Page Table] (LA) 12798 -> (PA) 31230: 12
+[Page Table] (LA) 51178 -> (PA) 42986: 49
+[Page Table] (LA) 8627 -> (PA) 20147: 108
+[Page Table] (LA) 27083 -> (PA) 27083: 114
+[Page Table] (LA) 47198 -> (PA) 29790: 46
+    [Load Page] Page 171 -> Frame 224
+[TLB] (LA) 44021 -> (PA) 57589: 0
+[Page Table] (LA) 32792 -> (PA) 4120: 0
+[TLB] (LA) 43996 -> (PA) 57564: 0
+[Page Table] (LA) 41126 -> (PA) 8870: 40
+[Page Table] (LA) 64244 -> (PA) 4596: 0
+[Page Table] (LA) 37047 -> (PA) 18359: 45
+    [Load Page] Page 235 -> Frame 225
+[TLB] (LA) 60281 -> (PA) 57721: 0
+[Page Table] (LA) 52904 -> (PA) 47784: 0
+    [Load Page] Page 30 -> Frame 226
+[TLB] (LA) 7768 -> (PA) 57944: 0
+    [Load Page] Page 216 -> Frame 227
+[TLB] (LA) 55359 -> (PA) 58175: 15
+[Page Table] (LA) 3230 -> (PA) 40350: 3
+[Page Table] (LA) 44813 -> (PA) 13069: 0
+[Page Table] (LA) 4116 -> (PA) 50708: 0
+[Page Table] (LA) 65222 -> (PA) 48582: 63
+[Page Table] (LA) 28083 -> (PA) 3507: 108
+[Page Table] (LA) 60660 -> (PA) 7412: 0
+    [Load Page] Page 0 -> Frame 228
+[TLB] (LA) 39 -> (PA) 58407: 9
+[Page Table] (LA) 328 -> (PA) 57160: 0
+[Page Table] (LA) 47868 -> (PA) 56572: 0
+[Page Table] (LA) 13009 -> (PA) 30417: 0
+[Page Table] (LA) 22378 -> (PA) 11370: 21
+[Page Table] (LA) 39304 -> (PA) 55688: 0
+[Page Table] (LA) 11171 -> (PA) 40099: -24
+[Page Table] (LA) 8079 -> (PA) 33935: -29
+[Page Table] (LA) 52879 -> (PA) 47759: -93
+[Page Table] (LA) 5123 -> (PA) 15107: 0
+    [Load Page] Page 17 -> Frame 229
+[TLB] (LA) 4356 -> (PA) 58628: 0
+[Page Table] (LA) 45745 -> (PA) 7857: 0
+[Page Table] (LA) 32952 -> (PA) 4280: 0
+[Page Table] (LA) 4657 -> (PA) 27697: 0
+[Page Table] (LA) 24142 -> (PA) 33614: 23
+[Page Table] (LA) 23319 -> (PA) 20503: -59
+[Page Table] (LA) 13607 -> (PA) 53031: 73
+[Page Table] (LA) 46304 -> (PA) 50144: 0
+[Page Table] (LA) 17677 -> (PA) 9741: 0
+[Page Table] (LA) 59691 -> (PA) 47403: 74
+[Page Table] (LA) 50967 -> (PA) 42775: -59
+[Page Table] (LA) 7817 -> (PA) 57993: 0
+[Page Table] (LA) 8545 -> (PA) 20065: 0
+[Page Table] (LA) 55297 -> (PA) 58113: 0
+[TLB] (LA) 52954 -> (PA) 47834: 51
+[Page Table] (LA) 39720 -> (PA) 38184: 0
+[Page Table] (LA) 18455 -> (PA) 5399: 5
+    [Load Page] Page 118 -> Frame 230
+[TLB] (LA) 30349 -> (PA) 59021: 0
+[Page Table] (LA) 63270 -> (PA) 16934: 61
+[Page Table] (LA) 27156 -> (PA) 28692: 0
+[Page Table] (LA) 20614 -> (PA) 56966: 20
+[Page Table] (LA) 19372 -> (PA) 14252: 0
+[Page Table] (LA) 48689 -> (PA) 32817: 0
+[Page Table] (LA) 49386 -> (PA) 8682: 48
+[Page Table] (LA) 50584 -> (PA) 18584: 0
+[Page Table] (LA) 51936 -> (PA) 27360: 0
+[Page Table] (LA) 34705 -> (PA) 18065: 0
+[Page Table] (LA) 13653 -> (PA) 53077: 0
+    [Load Page] Page 195 -> Frame 231
+[TLB] (LA) 50077 -> (PA) 59293: 0
+[Page Table] (LA) 54518 -> (PA) 19446: 53
+[Page Table] (LA) 41482 -> (PA) 41738: 40
+[Page Table] (LA) 4169 -> (PA) 50761: 0
+[Page Table] (LA) 36118 -> (PA) 54550: 35
+    [Load Page] Page 37 -> Frame 232
+[TLB] (LA) 9584 -> (PA) 59504: 0
+[Page Table] (LA) 18490 -> (PA) 5434: 18
+[Page Table] (LA) 55420 -> (PA) 58236: 0
+[Page Table] (LA) 5708 -> (PA) 52044: 0
+[Page Table] (LA) 23506 -> (PA) 20690: 22
+[Page Table] (LA) 15391 -> (PA) 31775: 7
+[Page Table] (LA) 36368 -> (PA) 14352: 0
+[Page Table] (LA) 38976 -> (PA) 3904: 0
+[Page Table] (LA) 50406 -> (PA) 14054: 49
+[Page Table] (LA) 49236 -> (PA) 8532: 0
+[Page Table] (LA) 65035 -> (PA) 48395: -126
+[Page Table] (LA) 30120 -> (PA) 680: 0
+[Page Table] (LA) 62551 -> (PA) 343: 21
+[Page Table] (LA) 46809 -> (PA) 55513: 0
+[Page Table] (LA) 21687 -> (PA) 52407: 45
+[Page Table] (LA) 53839 -> (PA) 54095: -109
+[Page Table] (LA) 2098 -> (PA) 35122: 2
+[Page Table] (LA) 12364 -> (PA) 45132: 0
+[Page Table] (LA) 45366 -> (PA) 45878: 44
+[Page Table] (LA) 50437 -> (PA) 18437: 0
+[Page Table] (LA) 36675 -> (PA) 35651: -48
+[Page Table] (LA) 55382 -> (PA) 58198: 54
+    [Load Page] Page 46 -> Frame 233
+[TLB] (LA) 11846 -> (PA) 59718: 11
+[Page Table] (LA) 49127 -> (PA) 50663: -7
+[Page Table] (LA) 19900 -> (PA) 36540: 0
+[Page Table] (LA) 20554 -> (PA) 56906: 20
+[Page Table] (LA) 19219 -> (PA) 14099: -60
+[Page Table] (LA) 51483 -> (PA) 15899: 70
+[Page Table] (LA) 58090 -> (PA) 3306: 56
+[Page Table] (LA) 39074 -> (PA) 4002: 38
+[Page Table] (LA) 16060 -> (PA) 21180: 0
+[Page Table] (LA) 10447 -> (PA) 14799: 51
+[Page Table] (LA) 54169 -> (PA) 51865: 0
+[TLB] (LA) 20634 -> (PA) 56986: 20
+[Page Table] (LA) 57555 -> (PA) 38099: 52
+[Page Table] (LA) 61210 -> (PA) 42266: 59
+[Page Table] (LA) 269 -> (PA) 57101: 0
+[Page Table] (LA) 33154 -> (PA) 53634: 32
+[Page Table] (LA) 64487 -> (PA) 5095: -7
+[TLB] (LA) 61223 -> (PA) 42279: -55
+[Page Table] (LA) 47292 -> (PA) 29884: 0
+[Page Table] (LA) 21852 -> (PA) 24156: 0
+[Page Table] (LA) 5281 -> (PA) 15265: 0
+[Page Table] (LA) 45912 -> (PA) 51032: 0
+[Page Table] (LA) 32532 -> (PA) 9492: 0
+[Page Table] (LA) 63067 -> (PA) 22107: -106
+[Page Table] (LA) 41683 -> (PA) 41939: -76
+[Page Table] (LA) 20981 -> (PA) 39157: 0
+[Page Table] (LA) 33881 -> (PA) 42073: 0
+[Page Table] (LA) 41785 -> (PA) 38713: 0
+[Page Table] (LA) 4580 -> (PA) 58852: 0
+[Page Table] (LA) 41389 -> (PA) 25005: 0
+[Page Table] (LA) 28572 -> (PA) 28060: 0
+[Page Table] (LA) 782 -> (PA) 7950: 0
+[Page Table] (LA) 30273 -> (PA) 58945: 0
+[Page Table] (LA) 62267 -> (PA) 23867: -50
+[Page Table] (LA) 17922 -> (PA) 18690: 17
+[Page Table] (LA) 63238 -> (PA) 16902: 61
+[Page Table] (LA) 3308 -> (PA) 40428: 0
+[Page Table] (LA) 26545 -> (PA) 24497: 0
+[Page Table] (LA) 44395 -> (PA) 44907: 90
+[Page Table] (LA) 39120 -> (PA) 4048: 0
+[Page Table] (LA) 21706 -> (PA) 52426: 21
+[Page Table] (LA) 7144 -> (PA) 26600: 0
+[TLB] (LA) 30244 -> (PA) 58916: 0
+[Page Table] (LA) 3725 -> (PA) 10125: 0
+[Page Table] (LA) 54632 -> (PA) 48744: 0
+[Page Table] (LA) 30574 -> (PA) 16238: 29
+[Page Table] (LA) 8473 -> (PA) 19993: 0
+[Page Table] (LA) 12386 -> (PA) 45154: 12
+[Page Table] (LA) 41114 -> (PA) 8858: 40
+[Page Table] (LA) 57930 -> (PA) 3146: 56
+[Page Table] (LA) 15341 -> (PA) 32493: 0
+[Page Table] (LA) 15598 -> (PA) 31982: 15
+[Page Table] (LA) 59922 -> (PA) 10514: 58
+[Page Table] (LA) 18226 -> (PA) 2354: 17
+[Page Table] (LA) 48162 -> (PA) 17698: 47
+[Page Table] (LA) 41250 -> (PA) 24866: 40
+[Page Table] (LA) 1512 -> (PA) 51688: 0
+[Page Table] (LA) 2546 -> (PA) 4850: 2
+[Page Table] (LA) 41682 -> (PA) 41938: 40
+[Page Table] (LA) 322 -> (PA) 57154: 0
+[Page Table] (LA) 880 -> (PA) 8048: 0
+[Page Table] (LA) 20891 -> (PA) 39067: 102
+[Page Table] (LA) 56604 -> (PA) 13340: 0
+[Page Table] (LA) 40166 -> (PA) 1254: 39
+[Page Table] (LA) 26791 -> (PA) 42663: 41
+[Page Table] (LA) 44560 -> (PA) 11024: 0
+[Page Table] (LA) 38698 -> (PA) 46890: 37
+[Page Table] (LA) 64127 -> (PA) 4479: -97
+[Page Table] (LA) 15028 -> (PA) 24756: 0
+[TLB] (LA) 38669 -> (PA) 46861: 0
+[Page Table] (LA) 45637 -> (PA) 7749: 0
+[Page Table] (LA) 43151 -> (PA) 17551: 35
+[Page Table] (LA) 9465 -> (PA) 23033: 0
+[TLB] (LA) 2498 -> (PA) 4802: 2
+[Page Table] (LA) 13978 -> (PA) 31386: 13
+[Page Table] (LA) 16326 -> (PA) 56006: 15
+[Page Table] (LA) 51442 -> (PA) 32754: 50
+[Page Table] (LA) 34845 -> (PA) 26653: 0
+[Page Table] (LA) 63667 -> (PA) 28339: 44
+[Page Table] (LA) 39370 -> (PA) 55754: 38
+    [Load Page] Page 217 -> Frame 234
+[TLB] (LA) 55671 -> (PA) 60023: 93
+[Page Table] (LA) 64496 -> (PA) 5104: 0
+[Page Table] (LA) 7767 -> (PA) 57943: -107
+[Page Table] (LA) 6283 -> (PA) 7563: 34
+[Page Table] (LA) 55884 -> (PA) 34636: 0
+[Page Table] (LA) 61103 -> (PA) 6063: -85
+    [Load Page] Page 39 -> Frame 235
+[TLB] (LA) 10184 -> (PA) 60360: 0
+[Page Table] (LA) 39543 -> (PA) 43383: -99
+[Page Table] (LA) 9555 -> (PA) 59475: 84
+[TLB] (LA) 13963 -> (PA) 31371: -94
+[Page Table] (LA) 58975 -> (PA) 14943: -105
+[Page Table] (LA) 19537 -> (PA) 22609: 0
+[Page Table] (LA) 6101 -> (PA) 9429: 0
+[Page Table] (LA) 41421 -> (PA) 25037: 0
+[Page Table] (LA) 45502 -> (PA) 46014: 44
+[Page Table] (LA) 29328 -> (PA) 37008: 0
+[Page Table] (LA) 8149 -> (PA) 34005: 0
+    [Load Page] Page 99 -> Frame 236
+[TLB] (LA) 25450 -> (PA) 60522: 24
+[TLB] (LA) 58944 -> (PA) 14912: 0
+[Page Table] (LA) 50666 -> (PA) 18666: 49
+[Page Table] (LA) 23084 -> (PA) 35884: 0
+[Page Table] (LA) 36468 -> (PA) 14452: 0
+    [Load Page] Page 131 -> Frame 237
+[TLB] (LA) 33645 -> (PA) 60781: 0
+[Page Table] (LA) 25002 -> (PA) 52650: 24
+[Page Table] (LA) 53715 -> (PA) 979: 116
+[Page Table] (LA) 60173 -> (PA) 57613: 0
+[Page Table] (LA) 46354 -> (PA) 50194: 45
+[Page Table] (LA) 4708 -> (PA) 27748: 0
+[Page Table] (LA) 28208 -> (PA) 34864: 0
+[Page Table] (LA) 58844 -> (PA) 55260: 0
+[Page Table] (LA) 22173 -> (PA) 56733: 0
+[Page Table] (LA) 8535 -> (PA) 20055: 85
+[Page Table] (LA) 42261 -> (PA) 10773: 0
+[Page Table] (LA) 29687 -> (PA) 49655: -3
+[Page Table] (LA) 37799 -> (PA) 29351: -23
+[Page Table] (LA) 22566 -> (PA) 2854: 22
+[Page Table] (LA) 62520 -> (PA) 312: 0
+[Page Table] (LA) 4098 -> (PA) 50690: 4
+[Page Table] (LA) 47999 -> (PA) 25727: -33
+[Page Table] (LA) 49660 -> (PA) 45564: 0
+[Page Table] (LA) 37063 -> (PA) 18375: 49
+[Page Table] (LA) 41856 -> (PA) 38784: 0
+[Page Table] (LA) 5417 -> (PA) 21545: 0
+[Page Table] (LA) 48856 -> (PA) 32984: 0
+[Page Table] (LA) 10682 -> (PA) 27578: 10
+[Page Table] (LA) 22370 -> (PA) 11362: 21
+[Page Table] (LA) 63281 -> (PA) 16945: 0
+[Page Table] (LA) 62452 -> (PA) 24052: 0
+[Page Table] (LA) 50532 -> (PA) 18532: 0
+[Page Table] (LA) 9022 -> (PA) 48190: 8
+[Page Table] (LA) 59300 -> (PA) 10404: 0
+[Page Table] (LA) 58660 -> (PA) 55076: 0
+[Page Table] (LA) 56401 -> (PA) 51281: 0
+[Page Table] (LA) 8518 -> (PA) 20038: 8
+[Page Table] (LA) 63066 -> (PA) 22106: 61
+[TLB] (LA) 63250 -> (PA) 16914: 61
+[Page Table] (LA) 48592 -> (PA) 2000: 0
+[Page Table] (LA) 28771 -> (PA) 1379: 24
+[Page Table] (LA) 37673 -> (PA) 29225: 0
+[Page Table] (LA) 60776 -> (PA) 23656: 0
+[TLB] (LA) 56438 -> (PA) 51318: 55
+[Page Table] (LA) 60424 -> (PA) 7176: 0
+[Page Table] (LA) 39993 -> (PA) 1081: 0
+[Page Table] (LA) 56004 -> (PA) 34756: 0
+[Page Table] (LA) 59002 -> (PA) 14970: 57
+[Page Table] (LA) 33982 -> (PA) 42174: 33
+[Page Table] (LA) 25498 -> (PA) 60570: 24
+[Page Table] (LA) 57047 -> (PA) 37591: -75
+[Page Table] (LA) 1401 -> (PA) 51577: 0
+[Page Table] (LA) 15130 -> (PA) 32282: 14
+[Page Table] (LA) 42960 -> (PA) 19664: 0
+[Page Table] (LA) 61827 -> (PA) 22403: 96
+[Page Table] (LA) 32442 -> (PA) 7098: 31
+[Page Table] (LA) 64304 -> (PA) 4912: 0
+[Page Table] (LA) 30273 -> (PA) 58945: 0
+[Page Table] (LA) 38082 -> (PA) 37314: 37
+[Page Table] (LA) 22404 -> (PA) 11396: 0
+[Page Table] (LA) 3808 -> (PA) 10208: 0
+[Page Table] (LA) 16883 -> (PA) 48115: 124
+[Page Table] (LA) 23111 -> (PA) 35911: -111
+[Page Table] (LA) 62417 -> (PA) 24017: 0
+[Page Table] (LA) 60364 -> (PA) 57804: 0
+[Page Table] (LA) 4542 -> (PA) 58814: 4
+[Page Table] (LA) 14829 -> (PA) 33517: 0
+[Page Table] (LA) 44964 -> (PA) 13220: 0
+[Page Table] (LA) 33924 -> (PA) 42116: 0
+[Page Table] (LA) 2141 -> (PA) 35165: 0
+[Page Table] (LA) 19245 -> (PA) 14125: 0
+[Page Table] (LA) 47168 -> (PA) 29760: 0
+[Page Table] (LA) 24048 -> (PA) 39664: 0
+[Page Table] (LA) 1022 -> (PA) 8190: 0
+[TLB] (LA) 23075 -> (PA) 35875: -120
+[Page Table] (LA) 24888 -> (PA) 52536: 0
+[Page Table] (LA) 49247 -> (PA) 8543: 23
+[Page Table] (LA) 4900 -> (PA) 13604: 0
+[Page Table] (LA) 22656 -> (PA) 2944: 0
+    [Load Page] Page 133 -> Frame 238
+[TLB] (LA) 34117 -> (PA) 60997: 0
+[Page Table] (LA) 55555 -> (PA) 59907: 64
+[Page Table] (LA) 48947 -> (PA) 50483: -52
+[Page Table] (LA) 59533 -> (PA) 25997: 0
+[Page Table] (LA) 21312 -> (PA) 9024: 0
+[TLB] (LA) 21415 -> (PA) 9127: -23
+[TLB] (LA) 813 -> (PA) 7981: 0
+[TLB] (LA) 19419 -> (PA) 14299: -10
+[Page Table] (LA) 1999 -> (PA) 33231: -13
+[Page Table] (LA) 20155 -> (PA) 40635: -82
+[Page Table] (LA) 21521 -> (PA) 52241: 0
+[Page Table] (LA) 13670 -> (PA) 53094: 13
+[Page Table] (LA) 19289 -> (PA) 14169: 0
+[Page Table] (LA) 58483 -> (PA) 15475: 28
+[Page Table] (LA) 41318 -> (PA) 24934: 40
+[Page Table] (LA) 16151 -> (PA) 55831: -59
+[TLB] (LA) 13611 -> (PA) 53035: 74
+[TLB] (LA) 21514 -> (PA) 52234: 21
+[Page Table] (LA) 13499 -> (PA) 36283: 46
+[Page Table] (LA) 45583 -> (PA) 7695: -125
+[TLB] (LA) 49013 -> (PA) 50549: 0
+[Page Table] (LA) 64843 -> (PA) 2123: 82
+[Page Table] (LA) 63485 -> (PA) 17149: 0
+[Page Table] (LA) 38697 -> (PA) 46889: 0
+[Page Table] (LA) 59188 -> (PA) 10292: 0
+[Page Table] (LA) 24593 -> (PA) 38417: 0
+    [Load Page] Page 225 -> Frame 239
+[TLB] (LA) 57641 -> (PA) 61225: 0
+[Page Table] (LA) 36524 -> (PA) 14508: 0
+[Page Table] (LA) 56980 -> (PA) 37524: 0
+[Page Table] (LA) 36810 -> (PA) 35786: 35
+[Page Table] (LA) 6096 -> (PA) 9424: 0
+[Page Table] (LA) 11070 -> (PA) 39998: 10
+[Page Table] (LA) 60124 -> (PA) 10716: 0
+[Page Table] (LA) 37576 -> (PA) 21448: 0
+[Page Table] (LA) 15096 -> (PA) 24824: 0
+[Page Table] (LA) 45247 -> (PA) 49087: 47
+[Page Table] (LA) 32783 -> (PA) 4111: 3
+[Page Table] (LA) 58390 -> (PA) 15382: 57
+[Page Table] (LA) 60873 -> (PA) 23753: 0
+[Page Table] (LA) 23719 -> (PA) 54951: 41
+[Page Table] (LA) 24385 -> (PA) 1601: 0
+[Page Table] (LA) 22307 -> (PA) 11299: -56
+    [Load Page] Page 67 -> Frame 240
+[TLB] (LA) 17375 -> (PA) 61663: -9
+[Page Table] (LA) 15990 -> (PA) 21110: 15
+[Page Table] (LA) 20526 -> (PA) 56878: 20
+[Page Table] (LA) 25904 -> (PA) 36656: 0
+[Page Table] (LA) 42224 -> (PA) 46320: 0
+[Page Table] (LA) 9311 -> (PA) 22879: 23
+[Page Table] (LA) 7862 -> (PA) 58038: 7
+[Page Table] (LA) 3835 -> (PA) 10235: -66
+[Page Table] (LA) 30535 -> (PA) 16199: -47
+[Page Table] (LA) 65179 -> (PA) 48539: -90
+[Page Table] (LA) 57387 -> (PA) 37931: 10
+[Page Table] (LA) 63579 -> (PA) 28251: 22
+[Page Table] (LA) 4946 -> (PA) 13650: 4
+[Page Table] (LA) 9037 -> (PA) 48205: 0
+[Page Table] (LA) 61033 -> (PA) 5993: 0
+[Page Table] (LA) 55543 -> (PA) 58359: 61
+[Page Table] (LA) 50361 -> (PA) 14009: 0
+[Page Table] (LA) 6480 -> (PA) 29008: 0
+[Page Table] (LA) 14042 -> (PA) 31450: 13
+[Page Table] (LA) 21531 -> (PA) 52251: 6
+[Page Table] (LA) 39195 -> (PA) 55579: 70
+[Page Table] (LA) 37511 -> (PA) 21383: -95
+[Page Table] (LA) 23696 -> (PA) 54928: 0
+[Page Table] (LA) 27440 -> (PA) 15664: 0
+[Page Table] (LA) 28201 -> (PA) 34857: 0
+[Page Table] (LA) 23072 -> (PA) 35872: 0
+[Page Table] (LA) 7814 -> (PA) 57990: 7
+[TLB] (LA) 6552 -> (PA) 29080: 0
+[Page Table] (LA) 43637 -> (PA) 12661: 0
+[Page Table] (LA) 35113 -> (PA) 39721: 0
+[Page Table] (LA) 34890 -> (PA) 26698: 34
+[Page Table] (LA) 61297 -> (PA) 42353: 0
+[Page Table] (LA) 45633 -> (PA) 7745: 0
+[TLB] (LA) 61431 -> (PA) 42487: -3
+[Page Table] (LA) 46032 -> (PA) 51152: 0
+    [Load Page] Page 73 -> Frame 241
+[TLB] (LA) 18774 -> (PA) 61782: 18
+[Page Table] (LA) 62991 -> (PA) 22031: -125
+[Page Table] (LA) 28059 -> (PA) 3483: 102
+[TLB] (LA) 35229 -> (PA) 39837: 0
+[Page Table] (LA) 51230 -> (PA) 32542: 50
+[Page Table] (LA) 14405 -> (PA) 5701: 0
+[Page Table] (LA) 52242 -> (PA) 46610: 51
+[Page Table] (LA) 43153 -> (PA) 17553: 0
+[Page Table] (LA) 2709 -> (PA) 53909: 0
+[Page Table] (LA) 47963 -> (PA) 25691: -42
+[Page Table] (LA) 36943 -> (PA) 18255: 19
+[Page Table] (LA) 54066 -> (PA) 51762: 52
+[Page Table] (LA) 10054 -> (PA) 60230: 9
+[TLB] (LA) 43051 -> (PA) 17451: 10
+[Page Table] (LA) 11525 -> (PA) 41477: 0
+[Page Table] (LA) 17684 -> (PA) 9748: 0
+[Page Table] (LA) 41681 -> (PA) 41937: 0
+[Page Table] (LA) 27883 -> (PA) 44267: 58
+[Page Table] (LA) 56909 -> (PA) 37453: 0
+[Page Table] (LA) 45772 -> (PA) 7884: 0
+[Page Table] (LA) 27496 -> (PA) 15720: 0
+[Page Table] (LA) 46842 -> (PA) 55546: 45
+[Page Table] (LA) 38734 -> (PA) 46926: 37
+[Page Table] (LA) 28972 -> (PA) 16428: 0
+[Page Table] (LA) 59684 -> (PA) 47396: 0
+[Page Table] (LA) 11384 -> (PA) 54392: 0
+[Page Table] (LA) 21018 -> (PA) 37658: 20
+[Page Table] (LA) 2192 -> (PA) 35216: 0
+[Page Table] (LA) 18384 -> (PA) 2512: 0
+[Page Table] (LA) 13464 -> (PA) 36248: 0
+    [Load Page] Page 121 -> Frame 242
+[TLB] (LA) 31018 -> (PA) 61994: 30
+[Page Table] (LA) 62958 -> (PA) 28654: 61
+[Page Table] (LA) 30611 -> (PA) 16275: -28
+[Page Table] (LA) 1913 -> (PA) 33145: 0
+[Page Table] (LA) 18904 -> (PA) 61912: 0
+[Page Table] (LA) 26773 -> (PA) 42645: 0
+[Page Table] (LA) 55491 -> (PA) 58307: 48
+[Page Table] (LA) 21899 -> (PA) 24203: 98
+[Page Table] (LA) 64413 -> (PA) 5021: 0
+[Page Table] (LA) 47134 -> (PA) 29726: 46
+[Page Table] (LA) 23172 -> (PA) 35972: 0
+[Page Table] (LA) 7262 -> (PA) 43102: 7
+[Page Table] (LA) 12705 -> (PA) 31137: 0
+[Page Table] (LA) 7522 -> (PA) 6242: 7
+[Page Table] (LA) 58815 -> (PA) 55231: 111
+[Page Table] (LA) 34916 -> (PA) 26724: 0
+[Page Table] (LA) 3802 -> (PA) 10202: 3
+[Page Table] (LA) 58008 -> (PA) 3224: 0
+[Page Table] (LA) 1239 -> (PA) 40919: 53
+[Page Table] (LA) 63947 -> (PA) 21963: 114
+[Page Table] (LA) 381 -> (PA) 57213: 0
+[Page Table] (LA) 60734 -> (PA) 23614: 59
+[Page Table] (LA) 48769 -> (PA) 32897: 0
+[Page Table] (LA) 41938 -> (PA) 38866: 40
+[Page Table] (LA) 38025 -> (PA) 37257: 0
+[Page Table] (LA) 55099 -> (PA) 5179: -50
+[Page Table] (LA) 56691 -> (PA) 13427: 92
+[Page Table] (LA) 39530 -> (PA) 43370: 38
+[Page Table] (LA) 59003 -> (PA) 14971: -98
+[Page Table] (LA) 6029 -> (PA) 9357: 0
+[Page Table] (LA) 20920 -> (PA) 39096: 0
+[Page Table] (LA) 8077 -> (PA) 33933: 0
+[Page Table] (LA) 42633 -> (PA) 20873: 0
+[Page Table] (LA) 17443 -> (PA) 40995: 8
+[Page Table] (LA) 53570 -> (PA) 834: 52
+[Page Table] (LA) 22833 -> (PA) 52785: 0
+[Page Table] (LA) 3782 -> (PA) 10182: 3
+[Page Table] (LA) 47758 -> (PA) 56462: 46
+[Page Table] (LA) 22136 -> (PA) 56696: 0
+[Page Table] (LA) 22427 -> (PA) 11419: -26
+[Page Table] (LA) 23867 -> (PA) 39483: 78
+[Page Table] (LA) 59968 -> (PA) 10560: 0
+    [Load Page] Page 242 -> Frame 243
+[TLB] (LA) 62166 -> (PA) 62422: 60
+[Page Table] (LA) 6972 -> (PA) 26428: 0
+[Page Table] (LA) 63684 -> (PA) 28356: 0
+[Page Table] (LA) 46388 -> (PA) 50228: 0
+[Page Table] (LA) 41942 -> (PA) 38870: 40
+[Page Table] (LA) 36524 -> (PA) 14508: 0
+[Page Table] (LA) 9323 -> (PA) 22891: 26
+[Page Table] (LA) 31114 -> (PA) 62090: 30
+[TLB] (LA) 22345 -> (PA) 11337: 0
+[TLB] (LA) 46463 -> (PA) 50303: 95
+[Page Table] (LA) 54671 -> (PA) 48783: 99
+[Page Table] (LA) 9214 -> (PA) 48382: 8
+[Page Table] (LA) 7257 -> (PA) 43097: 0
+[Page Table] (LA) 33150 -> (PA) 53630: 32
+[Page Table] (LA) 41565 -> (PA) 41821: 0
+[Page Table] (LA) 26214 -> (PA) 49254: 25
+[Page Table] (LA) 3595 -> (PA) 9995: -126
+[Page Table] (LA) 17932 -> (PA) 18700: 0
+[Page Table] (LA) 34660 -> (PA) 18020: 0
+[Page Table] (LA) 51961 -> (PA) 27385: 0
+[Page Table] (LA) 58634 -> (PA) 55050: 57
+[Page Table] (LA) 57990 -> (PA) 3206: 56
+[Page Table] (LA) 28848 -> (PA) 1456: 0
+[Page Table] (LA) 49920 -> (PA) 59136: 0
+[Page Table] (LA) 18351 -> (PA) 2479: -21
+[Page Table] (LA) 53669 -> (PA) 933: 0
+[Page Table] (LA) 33996 -> (PA) 42188: 0
+[Page Table] (LA) 6741 -> (PA) 6741: 0
+[Page Table] (LA) 64098 -> (PA) 4450: 62
+[Page Table] (LA) 606 -> (PA) 17246: 0
+[Page Table] (LA) 27383 -> (PA) 28919: -67
+[Page Table] (LA) 63140 -> (PA) 22180: 0
+[Page Table] (LA) 32228 -> (PA) 49892: 0
+[Page Table] (LA) 63437 -> (PA) 17101: 0
+[Page Table] (LA) 29085 -> (PA) 16541: 0
+[Page Table] (LA) 65080 -> (PA) 48440: 0
+[Page Table] (LA) 38753 -> (PA) 46945: 0
+[Page Table] (LA) 16041 -> (PA) 21161: 0
+[Page Table] (LA) 9041 -> (PA) 48209: 0
+[Page Table] (LA) 42090 -> (PA) 46186: 41
+[Page Table] (LA) 46388 -> (PA) 50228: 0
+[Page Table] (LA) 63650 -> (PA) 28322: 62
+[Page Table] (LA) 36636 -> (PA) 35612: 0
+[Page Table] (LA) 21947 -> (PA) 24251: 110
+[Page Table] (LA) 19833 -> (PA) 36473: 0
+[Page Table] (LA) 36464 -> (PA) 14448: 0
+[Page Table] (LA) 8541 -> (PA) 20061: 0
+[Page Table] (LA) 12712 -> (PA) 31144: 0
+[Page Table] (LA) 48955 -> (PA) 50491: -50
+[Page Table] (LA) 39206 -> (PA) 55590: 38
+[Page Table] (LA) 15578 -> (PA) 31962: 15
+[Page Table] (LA) 49205 -> (PA) 8501: 0
+[Page Table] (LA) 7731 -> (PA) 57907: -116
+[Page Table] (LA) 43046 -> (PA) 17446: 42
+[Page Table] (LA) 60498 -> (PA) 7250: 59
+[Page Table] (LA) 9237 -> (PA) 22805: 0
+[Page Table] (LA) 47706 -> (PA) 56410: 46
+[Page Table] (LA) 43973 -> (PA) 57541: 0
+[Page Table] (LA) 42008 -> (PA) 46104: 0
+[Page Table] (LA) 27460 -> (PA) 15684: 0
+[Page Table] (LA) 24999 -> (PA) 52647: 105
+[Page Table] (LA) 51933 -> (PA) 27357: 0
+[Page Table] (LA) 34070 -> (PA) 60950: 33
+[Page Table] (LA) 65155 -> (PA) 48515: -96
+[Page Table] (LA) 59955 -> (PA) 10547: -116
+[TLB] (LA) 9277 -> (PA) 22845: 0
+[Page Table] (LA) 20420 -> (PA) 16836: 0
+[Page Table] (LA) 44860 -> (PA) 13116: 0
+[Page Table] (LA) 50992 -> (PA) 42800: 0
+[Page Table] (LA) 10583 -> (PA) 27479: 85
+[Page Table] (LA) 57751 -> (PA) 61335: 101
+[Page Table] (LA) 23195 -> (PA) 35995: -90
+[Page Table] (LA) 27227 -> (PA) 28763: -106
+[Page Table] (LA) 42816 -> (PA) 19520: 0
+[Page Table] (LA) 58219 -> (PA) 34155: -38
+[Page Table] (LA) 37606 -> (PA) 21478: 36
+[Page Table] (LA) 18426 -> (PA) 2554: 17
+[Page Table] (LA) 21238 -> (PA) 37878: 20
+[Page Table] (LA) 11983 -> (PA) 59855: -77
+[Page Table] (LA) 48394 -> (PA) 1802: 47
+[Page Table] (LA) 11036 -> (PA) 39964: 0
+[Page Table] (LA) 30557 -> (PA) 16221: 0
+[Page Table] (LA) 23453 -> (PA) 20637: 0
+[Page Table] (LA) 49847 -> (PA) 31671: -83
+[Page Table] (LA) 30032 -> (PA) 592: 0
+[Page Table] (LA) 48065 -> (PA) 25793: 0
+[Page Table] (LA) 6957 -> (PA) 26413: 0
+[Page Table] (LA) 2301 -> (PA) 35325: 0
+[Page Table] (LA) 7736 -> (PA) 57912: 0
+[Page Table] (LA) 31260 -> (PA) 23324: 0
+[Page Table] (LA) 17071 -> (PA) 175: -85
+[Page Table] (LA) 8940 -> (PA) 46572: 0
+[Page Table] (LA) 9929 -> (PA) 44745: 0
+[Page Table] (LA) 45563 -> (PA) 46075: 126
+[Page Table] (LA) 12107 -> (PA) 2635: -46

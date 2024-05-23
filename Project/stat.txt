@@ -1,5 +1,5 @@
 page-fault rate: 0.24
-TLB hit rate: 0.30
+TLB hit rate: 0.05
 Memory image:
 Frame 0 ~ Frame 15: 66 244 117 209 156 112 95 189 253 71 47 88 226 109 214 152
 Frame 16 ~ Frame 31: 128 250 9 251 215 72 56 238 29 252 26 126 236 24 178 3
