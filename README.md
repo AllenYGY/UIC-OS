@@ -1,6 +1,6 @@
 # UIC OS Course
 
-## 操作系统
+## Operating System
 
 ### Operating-System-Introduction
 
